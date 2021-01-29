@@ -1,0 +1,32 @@
+{
+	"window": {
+		"size": [1280, 720],
+		"title": "Pasziansz",
+		"background_color": [0, 153, 0]
+	},
+	"card": {
+		"size": [130, 170],
+		"front_sprite_path": "assets/",
+		"back_sprite_file": "assets/rajk_back.png",
+		"move_speed": 80
+	},
+	"talon": {
+		"position": [18, 18],
+		"offset": [0.2, 0]
+	},
+	"asztal": {
+		"position": [18, 220],
+		"offset": [180, 0],
+		"inner_offset": [0, 20]
+	},
+	"atlapoz":{
+		"position": [198, 18],
+		"offset": [0, 0],
+        "inner_offset": [20, 0]
+	},
+	"oszlop": {
+		"position": [558, 18],
+		"offset": [180, 0],
+		"inner_offset": [0, 0]
+	}
+}

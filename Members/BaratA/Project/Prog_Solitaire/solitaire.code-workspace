@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.languageServer": "Pylance",
+		"editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace, SF Pro",
+		"python.pythonPath": "/usr/bin/python"
+	}
+}
